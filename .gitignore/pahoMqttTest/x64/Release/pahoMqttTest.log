@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\yc\source\repos\pahomqtttest\pahomqtttest\main.cpp(63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yc\source\repos\pahomqtttest\pahomqtttest\main.cpp(64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yc\source\repos\pahomqtttest\pahomqtttest\main.cpp(65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 294 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  pahoMqttTest.vcxproj -> C:\Users\yc\source\repos\pahoMqttTest\x64\Release\pahoMqttTest.exe
